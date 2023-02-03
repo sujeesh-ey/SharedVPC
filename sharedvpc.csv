@@ -1,0 +1,2 @@
+subnet,cidr,region,secondarycidr
+shareddevsubnet1,10.2.0.0/16,us-east4,192.168.10.0/24
